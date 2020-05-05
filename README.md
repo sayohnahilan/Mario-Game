@@ -1,5 +1,5 @@
 # Mario-Game
-A windows-based arcade game made to mimic Super Mario using GameMaker Studio.
+A windows-based arcade game similar to Super Mario using GameMaker Studio.
 
 To run:
 1. Clone repository.
